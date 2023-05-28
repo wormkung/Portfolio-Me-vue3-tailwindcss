@@ -72,7 +72,7 @@
               <div
                 class="mb-1 text-base font-medium text-red-700 dark:text-red-500"
               >
-                Nuxt.js 3
+               Php Sql
               </div>
               <div
                 class="w-full bg-gray-200 rounded-full h-2.5 mb-4 dark:bg-gray-700"
@@ -98,7 +98,7 @@
               <div
                 class="mb-1 text-base font-medium text-yellow-700 dark:text-yellow-500"
               >
-                Bootstrap 5 (BootstrapVue)
+                Bootstrap 5
               </div>
               <div
                 class="w-full bg-gray-200 rounded-full h-2.5 mb-4 dark:bg-gray-700"
