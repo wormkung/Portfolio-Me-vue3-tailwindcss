@@ -33,7 +33,7 @@
         <p
           class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400"
         >
-          Interested Position : Front-End Developer | vue.js 3 | nuxt.js 3
+          Interested Position : Front-End Developer | vuejs Developer | programmer | web master
         </p>
         <a href="https://web.facebook.com/wierod.jamjomroon/" target="_blank">
         <button
